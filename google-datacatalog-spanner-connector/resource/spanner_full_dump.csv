@@ -1,0 +1,5 @@
+schema_name,table_name,table_type,column_name,column_default_value,column_nullable,column_type
+default,accounts,BASE TABLE,email,,NO,STRING(255)
+default,accounts,BASE TABLE,password,,NO,STRING(50)
+default,accounts,BASE TABLE,user_id,,YES,NUMERIC
+default,accounts,BASE TABLE,username,,NO,STRING(50)
